@@ -14,3 +14,6 @@ This is the testbench for the FSM to validate behavior\
 -simulates left & right turn, and hazard lights\
 -toggles clk signal every 5 time units using forever loop
 ## Simulation instructions
+
+## Simulation result
+![image](https://github.com/user-attachments/assets/cab88670-3fc4-4beb-8f19-397324b1219c)
