@@ -1,5 +1,6 @@
 # Ford Thunderbird FSM Simulation
-This repository contains a Verilog implementation and testbench for a state machine (FSM) that controls the turn signal lights of a Thunderbird vehicle.
+This repository contains a SytemVerilog implementation and testbench for a state machine (FSM) that controls the turn signal lights of a Thunderbird vehicle.\
+I simulated it using ModelSim - Intel FPGA Edition vsim 2020.1 (Quartus Prime 20.1)
 ## Files
 tbird_fsm.sv: Implements the FSM to control the left and right turn signals based on user input.\
 testbench_hw8.sv: A testbench to verify the functionality of the FSM.
